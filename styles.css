@@ -1,0 +1,64 @@
+.header {
+    width: 80%;
+    background-color: #c6bcb6;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    padding-bottom: 100px;
+    max-width: 500px;
+    height: auto;
+    text-align: center;
+    border-radius: 24px;
+    box-shadow: 12px 12px 24px #96897f;
+}
+
+.back {
+    background-color: #625750;
+}
+
+.logo {
+    border-radius: 10px;
+    width: 300x;
+    height: 310px;
+    margin-bottom: 100px;
+}
+
+.butt {
+    border-radius: 9px;
+    background: #e0e0e0;
+    border: none;
+    margin: 10px 10px;
+    padding: 10px 30px 10px 30px;
+    cursor: pointer;
+}
+
+.butt:hover {
+    border-radius: 9px;
+    background: #e0e0e0;
+    border: none;
+    margin: 10px 10px;
+    padding: 10px 30px 10px 30px;
+    box-shadow: 12px 12px 24px #96897f;
+}
+
+label {
+    display: block;
+    margin: 0.5rem 0;
+    text-align: left;
+    margin-left: 80px;
+}
+
+input,
+textarea,
+select {
+    margin: 10px auto;
+    width: 80%;
+    min-height: 2em;
+}
+
+input,
+textarea {
+    background-color: #e0e2e4;
+    border: 1px solid #c6bcb6;
+    color: #625750;
+}
